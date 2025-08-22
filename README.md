@@ -5,3 +5,5 @@ DynamicDotsExample
 Take Light Off
 ![TakeOffLight](assets/take-light-off.gif)
 
+animation-confetti
+![confetti](assets/contti.gif)
